@@ -1,4 +1,4 @@
-# Kolkata OSINT Lab 🔍
+ Kolkata OSINT Lab 🔍
 Hey! I am B from Madhyamgram, Kolkata - 13 years old learning Ethical Hacking.
 
 ### What I Check
